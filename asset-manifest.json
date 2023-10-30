@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/trade-website/static/css/main.fddbc735.css",
+    "main.js": "/trade-website/static/js/main.1889eb39.js",
+    "static/media/img.jpeg": "/trade-website/static/media/img.3dcb2342ececba2b99cc.jpeg",
+    "static/media/img2.jpg": "/trade-website/static/media/img2.9bbd5f628bd22e2fc3ec.jpg",
+    "index.html": "/trade-website/index.html",
+    "static/media/index.cjs": "/trade-website/static/media/index.cd351d7c31d0d3fccf96.cjs",
+    "main.fddbc735.css.map": "/trade-website/static/css/main.fddbc735.css.map",
+    "main.1889eb39.js.map": "/trade-website/static/js/main.1889eb39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fddbc735.css",
+    "static/js/main.1889eb39.js"
+  ]
+}
